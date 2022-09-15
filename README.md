@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola soy Lucas Santillan 👋
+- 🤔 Estoy aprendiendo a programar.
 <!--
 **lukisantillan/lukisantillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
