@@ -1,6 +1,5 @@
 ### Hola soy Lucas Santillan 👋
 - 🤔 Estoy aprendiendo a programar.
-- CURSO TERMINADO DE PROGRAMACION WEB FULL STACK EN DIGITAL HOUSE.
 - ESTUDIANTE DE LICENCIATURA EN SISTEMAS (UNLU)
 <!--
 **lukisantillan/lukisantillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
